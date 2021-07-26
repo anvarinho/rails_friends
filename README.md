@@ -2,6 +2,8 @@
 
 Hello I am Anvar and I am a student , follow me @anvarinho
 
+git push heroku main doesnt work well
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
